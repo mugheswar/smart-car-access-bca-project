@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and secrets
+.env
+.env.local
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+
+# Local system files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Visual Studio Code & IDE
+.vscode/
+.idea/

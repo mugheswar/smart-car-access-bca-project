@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "user-admin-001",
+    "name": "System Administrator",
+    "email": "admin@smartcar.local",
+    "phone": "+91 98765 43210",
+    "passwordHash": "pbkdf2:sha256:100000$dc2094cbe45549cef2b3c5134a11b0ec$909a2ac04a0b70e632b7c49bd995c96046da7f7205541db67f905bd7cc7b5a90",
+    "role": "admin",
+    "status": "active",
+    "createdAt": "2026-09-03T05:03:04.723730+00:00"
+  },
+  {
+    "_id": "user-demo-002",
+    "name": "Aditya Sharma",
+    "email": "user@smartcar.local",
+    "phone": "+91 91234 56789",
+    "passwordHash": "pbkdf2:sha256:100000$494ce0bd2f304f7243c5033c800df143$0aaa829c1f6298b0b05c0b3e9edcacee512cbfece697995a3e3fb472e2a9ce2e",
+    "role": "user",
+    "status": "active",
+    "createdAt": "2026-09-13T05:03:04.723730+00:00"
+  },
+  {
+    "name": "New Tester",
+    "email": "testnewuser@smartcar.local",
+    "phone": "+91 99999 88888",
+    "passwordHash": "pbkdf2:sha256:100000$8601cd09056841dbcc2457cbe2e575ad$d61878ae455c090c3b1718118eadbf023200dbc6d1960221de5c90b982a274ae",
+    "role": "user",
+    "status": "active",
+    "createdAt": "2026-10-03T05:17:26.496784+00:00",
+    "_id": "37f1bad5-3055-4259-97ad-fb5895273e08"
+  }
+]

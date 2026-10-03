@@ -1,0 +1,299 @@
+[
+  {
+    "_id": "notif-001",
+    "userId": "user-demo-002",
+    "title": "Simulated Vehicle Unlocked",
+    "message": "Hyundai Creta (TN 07 CS 4921) door latch unlocked successfully via AI keyless verification.",
+    "type": "success",
+    "timestamp": "2026-10-03T04:18:04.723730+00:00",
+    "read": false
+  },
+  {
+    "_id": "notif-002",
+    "userId": "user-demo-002",
+    "title": "Security Alert: Access Blocked",
+    "message": "High-risk access attempt blocked on Hyundai Creta. Anomaly detected at 02:15 AM.",
+    "type": "danger",
+    "timestamp": "2026-10-01T21:03:04.723730+00:00",
+    "read": false
+  },
+  {
+    "_id": "notif-003",
+    "userId": "user-demo-002",
+    "title": "Verification Notice",
+    "message": "Additional verification was prompted for Mahindra XUV700 due to night-time access.",
+    "type": "warning",
+    "timestamp": "2026-10-02T15:03:04.723730+00:00",
+    "read": true
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Hyundai Creta (TN 07 CS 4921)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:20:08.909808+00:00",
+    "read": false,
+    "_id": "38c91197-bbb6-462b-99b2-29717c9de3c6"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Unlocked",
+    "message": "Hyundai Creta door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T05:20:27.023026+00:00",
+    "read": false,
+    "_id": "3094e8ac-8003-4482-b899-a1dd8bea2da0"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Tata Nexon (MH 12 QX 8832)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:35:14.543214+00:00",
+    "read": false,
+    "_id": "74437fcb-cbe1-4025-8481-bc2e69f9a62d"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Unlocked",
+    "message": "Tata Nexon door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T05:35:43.506058+00:00",
+    "read": false,
+    "_id": "1573342b-367e-472b-a126-2f514fcd5d10"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Locked",
+    "message": "Hyundai Creta latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:37:05.919386+00:00",
+    "read": false,
+    "_id": "bf1a61d6-4ec4-4711-b233-27799ad302b0"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Hyundai Creta (TN 07 CS 4921)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:38:45.053105+00:00",
+    "read": false,
+    "_id": "2f87a7ec-f5f0-4096-a83e-4cb4c45e1972"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Unlocked",
+    "message": "Hyundai Creta door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T05:39:01.517043+00:00",
+    "read": false,
+    "_id": "c4ccf0ca-3bc4-4922-875f-6ec51ff93403"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Locked",
+    "message": "Hyundai Creta latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:39:05.095861+00:00",
+    "read": false,
+    "_id": "70802a80-5e3b-49f6-9704-3b22d2179e93"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Locked",
+    "message": "Tata Nexon latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:42:51.950600+00:00",
+    "read": false,
+    "_id": "d5b4bd74-e8d6-46be-8cc6-94f9e9c7989c"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Tata Nexon (MH 12 QX 8832)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:45:39.328290+00:00",
+    "read": false,
+    "_id": "df09d366-b0a5-42f5-a696-b1563f16f621"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Unlocked",
+    "message": "Tata Nexon door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T05:45:55.144371+00:00",
+    "read": false,
+    "_id": "1ada01f8-c705-4ed7-8a53-054ad1b8c0b1"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Locked",
+    "message": "Tata Nexon latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:45:58.954343+00:00",
+    "read": false,
+    "_id": "91ab8606-67f8-4718-97b3-5667c2ea262a"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Hyundai Creta (TN 07 CS 4921)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:51:42.225246+00:00",
+    "read": false,
+    "_id": "d4b54d9f-a4fb-4cff-a86e-e0e63c18bef1"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Unlocked",
+    "message": "Hyundai Creta door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T05:52:24.325121+00:00",
+    "read": false,
+    "_id": "dcf74272-ff24-4236-9d49-f30b42cc3d03"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Locked",
+    "message": "Hyundai Creta latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:52:28.910397+00:00",
+    "read": false,
+    "_id": "57e888ae-d887-46e9-938c-af7be7c2e57b"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Hyundai Creta (TN 07 CS 4921)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:52:30.558139+00:00",
+    "read": false,
+    "_id": "36357553-a9d4-4cc4-8d95-7dfb34c56c79"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Locked",
+    "message": "Hyundai Creta latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:52:55.895742+00:00",
+    "read": false,
+    "_id": "a3b4cf1d-a7c4-4c7e-83c5-bf6582ef4380"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Hyundai Creta (TN 07 CS 4921)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:53:00.006966+00:00",
+    "read": false,
+    "_id": "f714195d-1168-4738-816f-b4c73b84bf6d"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Locked",
+    "message": "Hyundai Creta latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:53:23.034609+00:00",
+    "read": false,
+    "_id": "d9b720fb-87ec-417f-b5e7-7b2a2514c505"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Hyundai Creta (TN 07 CS 4921)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:53:26.133597+00:00",
+    "read": false,
+    "_id": "b55c756a-cd82-4529-9e23-80910933c6cc"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Unlocked",
+    "message": "Hyundai Creta door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T05:53:46.898340+00:00",
+    "read": false,
+    "_id": "505c647a-bc14-4832-8ea5-10f1608ccf88"
+  },
+  {
+    "userId": "d73a35d5-79a6-4722-a3c8-3133e6267974",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Tata Nexon (MH 12 QX 8832)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:59:04.319635+00:00",
+    "read": false,
+    "_id": "52ab76a4-6e52-4474-b5f3-b7024f27950f"
+  },
+  {
+    "userId": "d73a35d5-79a6-4722-a3c8-3133e6267974",
+    "title": "Vehicle Locked",
+    "message": "Tata Nexon latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:59:18.615960+00:00",
+    "read": false,
+    "_id": "56f915e0-cce2-4047-b70c-5d18dd6d1f6a"
+  },
+  {
+    "userId": "d73a35d5-79a6-4722-a3c8-3133e6267974",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Tata Nexon (MH 12 QX 8832)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:59:20.340385+00:00",
+    "read": false,
+    "_id": "61fd08df-fa2e-4d7f-92fa-e72475d69e11"
+  },
+  {
+    "userId": "d73a35d5-79a6-4722-a3c8-3133e6267974",
+    "title": "Vehicle Unlocked",
+    "message": "Tata Nexon door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T05:59:32.528654+00:00",
+    "read": false,
+    "_id": "b64fc545-8610-4b0e-84c3-baec50cde5a8"
+  },
+  {
+    "userId": "d73a35d5-79a6-4722-a3c8-3133e6267974",
+    "title": "Vehicle Locked",
+    "message": "Tata Nexon latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:59:38.522460+00:00",
+    "read": false,
+    "_id": "9828f2a4-381c-4930-897d-404d4d01e391"
+  },
+  {
+    "userId": "e83ba3df-6b8a-419b-9b89-b9f5218ac325",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Toyota Creeta (TN 45 A2007)",
+    "type": "info",
+    "timestamp": "2026-10-03T06:16:57.843958+00:00",
+    "read": false,
+    "_id": "d107d2a0-4140-4672-a41d-51892eb0378c"
+  },
+  {
+    "userId": "e83ba3df-6b8a-419b-9b89-b9f5218ac325",
+    "title": "Vehicle Unlocked",
+    "message": "Toyota Creeta door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T06:17:13.080553+00:00",
+    "read": false,
+    "_id": "4531bf2a-3ef8-49f1-a3da-93565f64025c"
+  },
+  {
+    "userId": "e83ba3df-6b8a-419b-9b89-b9f5218ac325",
+    "title": "Vehicle Locked",
+    "message": "Toyota Creeta latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T06:17:17.389201+00:00",
+    "read": false,
+    "_id": "3df710b1-3ff1-45bb-801b-fb596c0b4e12"
+  },
+  {
+    "userId": "e83ba3df-6b8a-419b-9b89-b9f5218ac325",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Toyota Creeta (TN 45 A2007)",
+    "type": "info",
+    "timestamp": "2026-10-03T06:21:21.403333+00:00",
+    "read": false,
+    "_id": "b7b1f349-2c9f-48dd-8c9f-592599623f0c"
+  }
+]

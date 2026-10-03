@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "notif-001",
+    "userId": "user-demo-002",
+    "title": "Simulated Vehicle Unlocked",
+    "message": "Hyundai Creta (TN 07 CS 4921) door latch unlocked successfully via AI keyless verification.",
+    "type": "success",
+    "timestamp": "2026-10-03T04:18:04.723730+00:00",
+    "read": false
+  },
+  {
+    "_id": "notif-002",
+    "userId": "user-demo-002",
+    "title": "Security Alert: Access Blocked",
+    "message": "High-risk access attempt blocked on Hyundai Creta. Anomaly detected at 02:15 AM.",
+    "type": "danger",
+    "timestamp": "2026-10-01T21:03:04.723730+00:00",
+    "read": false
+  },
+  {
+    "_id": "notif-003",
+    "userId": "user-demo-002",
+    "title": "Verification Notice",
+    "message": "Additional verification was prompted for Mahindra XUV700 due to night-time access.",
+    "type": "warning",
+    "timestamp": "2026-10-02T15:03:04.723730+00:00",
+    "read": true
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Hyundai Creta (TN 07 CS 4921)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:04:41.847590+00:00",
+    "read": false,
+    "_id": "735310a4-6923-403e-85bf-6288885fab3c"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Unlocked",
+    "message": "Hyundai Creta door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T05:04:41.882403+00:00",
+    "read": false,
+    "_id": "5854e3d2-75bf-483e-aeea-30867d8ed22c"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Locked",
+    "message": "Hyundai Creta latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:04:41.888802+00:00",
+    "read": false,
+    "_id": "107f034e-870c-4cb5-a4fe-21f5715a757f"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Hyundai Creta (TN 07 CS 4921)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:14:32.790090+00:00",
+    "read": false,
+    "_id": "6ebeb9a3-6266-4bed-a58f-2145c85a03ee"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Unlocked",
+    "message": "Hyundai Creta door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T05:14:32.856396+00:00",
+    "read": false,
+    "_id": "059f3f5e-7be8-43a2-8db2-472e1a74c2c8"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Locked",
+    "message": "Hyundai Creta latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:14:32.866765+00:00",
+    "read": false,
+    "_id": "6da9cdcd-c74e-470e-b48a-4177ef12de68"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Hyundai Creta (TN 07 CS 4921)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:17:05.391174+00:00",
+    "read": false,
+    "_id": "8dea39b1-9e6e-4608-be20-3d53ab24a33b"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Unlocked",
+    "message": "Hyundai Creta door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T05:17:05.421333+00:00",
+    "read": false,
+    "_id": "be58c556-5c2f-42e8-a00c-68d4b549d11e"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Locked",
+    "message": "Hyundai Creta latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:17:05.427298+00:00",
+    "read": false,
+    "_id": "2d213c46-9b03-412e-ba95-4ca06dd5005f"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Access Requested",
+    "message": "Keyless access sequence initiated for Hyundai Creta (TN 07 CS 4921)",
+    "type": "info",
+    "timestamp": "2026-10-03T05:17:26.901861+00:00",
+    "read": false,
+    "_id": "a13b875e-7eb3-452b-842a-ec482d56fd2e"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Unlocked",
+    "message": "Hyundai Creta door latches unlocked in simulation mode.",
+    "type": "success",
+    "timestamp": "2026-10-03T05:17:26.933929+00:00",
+    "read": false,
+    "_id": "ea867ce8-8bd7-45b3-a1b1-f56b7757fa92"
+  },
+  {
+    "userId": "user-demo-002",
+    "title": "Vehicle Locked",
+    "message": "Hyundai Creta latches secured in simulation mode.",
+    "type": "info",
+    "timestamp": "2026-10-03T05:17:26.939963+00:00",
+    "read": false,
+    "_id": "a3544649-6da5-4a53-b828-4e66ec879bad"
+  }
+]

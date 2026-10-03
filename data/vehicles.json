@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "veh-creta-001",
+    "ownerId": "user-demo-002",
+    "registrationNumber": "TN 07 CS 4921",
+    "brand": "Hyundai",
+    "model": "Creta",
+    "type": "SUV",
+    "year": 2025,
+    "color": "Polar White",
+    "status": "locked",
+    "createdAt": "2026-09-18T05:03:04.723730+00:00",
+    "securityScore": 95,
+    "lastAccess": "2026-10-03T05:17:26.933929+00:00"
+  },
+  {
+    "_id": "veh-nexon-002",
+    "ownerId": "user-demo-002",
+    "registrationNumber": "MH 12 QX 8832",
+    "brand": "Tata",
+    "model": "Nexon",
+    "type": "Compact SUV",
+    "year": 2024,
+    "color": "Flame Red",
+    "status": "locked",
+    "createdAt": "2026-09-21T05:03:04.723730+00:00",
+    "securityScore": 92,
+    "lastAccess": "2026-10-03T01:03:04.723730+00:00"
+  },
+  {
+    "_id": "veh-xuv-003",
+    "ownerId": "user-demo-002",
+    "registrationNumber": "KA 05 MN 1099",
+    "brand": "Mahindra",
+    "model": "XUV700",
+    "type": "Luxury SUV",
+    "year": 2025,
+    "color": "Midnight Black",
+    "status": "locked",
+    "createdAt": "2026-09-23T05:03:04.723730+00:00",
+    "securityScore": 94,
+    "lastAccess": "2026-10-02T05:03:04.723730+00:00"
+  },
+  {
+    "_id": "veh-swift-004",
+    "ownerId": "user-demo-002",
+    "registrationNumber": "DL 03 CA 5541",
+    "brand": "Maruti Suzuki",
+    "model": "Swift",
+    "type": "Hatchback",
+    "year": 2024,
+    "color": "Pearl Arctic White",
+    "status": "locked",
+    "createdAt": "2026-09-25T05:03:04.723730+00:00",
+    "securityScore": 90,
+    "lastAccess": "2026-10-01T05:03:04.723730+00:00"
+  }
+]

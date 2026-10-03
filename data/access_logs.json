@@ -1,0 +1,179 @@
+[
+  {
+    "_id": "log-001",
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-creta-001",
+    "vehicleName": "Hyundai Creta",
+    "registrationNumber": "TN 07 CS 4921",
+    "verificationStatus": "verified",
+    "confidence": 96.5,
+    "riskScore": 10,
+    "riskLevel": "low",
+    "accessStatus": "granted",
+    "policyAction": "Simulated Access Granted",
+    "recommendation": "Standard authorization approved. Simulated door latch unlocked.",
+    "riskFactors": [
+      "All baseline security metrics within normal operating bounds"
+    ],
+    "timestamp": "2026-10-03T04:18:04.723730+00:00"
+  },
+  {
+    "_id": "log-002",
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-nexon-002",
+    "vehicleName": "Tata Nexon",
+    "registrationNumber": "MH 12 QX 8832",
+    "verificationStatus": "verified",
+    "confidence": 94.0,
+    "riskScore": 12,
+    "riskLevel": "low",
+    "accessStatus": "granted",
+    "policyAction": "Simulated Access Granted",
+    "recommendation": "Normal security profile. Standard simulated keyless access authorized.",
+    "riskFactors": [
+      "All baseline security metrics within normal operating bounds"
+    ],
+    "timestamp": "2026-10-03T01:03:04.723730+00:00"
+  },
+  {
+    "_id": "log-003",
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-xuv-003",
+    "vehicleName": "Mahindra XUV700",
+    "registrationNumber": "KA 05 MN 1099",
+    "verificationStatus": "verified",
+    "confidence": 72.0,
+    "riskScore": 54,
+    "riskLevel": "medium",
+    "accessStatus": "pending_verification",
+    "policyAction": "Additional Verification Required",
+    "recommendation": "Elevated risk detected. Secondary identity verification required.",
+    "riskFactors": [
+      "Sub-optimal verification confidence (72.0%)",
+      "Unusual access window (Time: 23:00 hours)",
+      "Recent failed access attempt recorded (1)"
+    ],
+    "timestamp": "2026-10-02T15:03:04.723730+00:00"
+  },
+  {
+    "_id": "log-004",
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-creta-001",
+    "vehicleName": "Hyundai Creta",
+    "registrationNumber": "TN 07 CS 4921",
+    "verificationStatus": "suspicious",
+    "confidence": 48.0,
+    "riskScore": 88,
+    "riskLevel": "high",
+    "accessStatus": "denied",
+    "policyAction": "Simulated Access Denied",
+    "recommendation": "CRITICAL RISK: Access restricted. Vehicle simulated immobilizer remains active. Security alert dispatched to Admin log.",
+    "riskFactors": [
+      "Low identity verification confidence (48.0%)",
+      "Multiple consecutive failed access attempts (4 attempts)",
+      "Unusual access window (Time: 02:00 hours)",
+      "High frequency of access requests in short time window (7 requests)",
+      "Historical flag: User/Vehicle associated with previous security alerts"
+    ],
+    "timestamp": "2026-10-01T21:03:04.723730+00:00"
+  },
+  {
+    "_id": "log-005",
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-swift-004",
+    "vehicleName": "Maruti Suzuki Swift",
+    "registrationNumber": "DL 03 CA 5541",
+    "verificationStatus": "verified",
+    "confidence": 98.0,
+    "riskScore": 8,
+    "riskLevel": "low",
+    "accessStatus": "granted",
+    "policyAction": "Simulated Access Granted",
+    "recommendation": "Normal security profile. Standard simulated keyless access authorized.",
+    "riskFactors": [
+      "All baseline security metrics within normal operating bounds"
+    ],
+    "timestamp": "2026-10-01T05:03:04.723730+00:00"
+  },
+  {
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-creta-001",
+    "vehicleName": "Hyundai Creta",
+    "registrationNumber": "TN 07 CS 4921",
+    "verificationStatus": "verified",
+    "confidence": 96.0,
+    "riskScore": 10,
+    "riskLevel": "low",
+    "accessStatus": "granted",
+    "policyAction": "Simulated Access Granted",
+    "recommendation": "Standard authorization approved. Simulated door latch unlocked.",
+    "riskFactors": [
+      "All baseline metrics within acceptable operating thresholds"
+    ],
+    "timestamp": "2026-10-03T05:04:41.866614+00:00",
+    "_id": "966c094f-10a9-48f7-a82a-87c8da4dea05"
+  },
+  {
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-creta-001",
+    "vehicleName": "Hyundai Creta",
+    "registrationNumber": "TN 07 CS 4921",
+    "verificationStatus": "verified",
+    "confidence": 96.0,
+    "riskScore": 10,
+    "riskLevel": "low",
+    "accessStatus": "granted",
+    "policyAction": "Simulated Access Granted",
+    "recommendation": "Standard authorization approved. Simulated door latch unlocked.",
+    "riskFactors": [
+      "All baseline metrics within acceptable operating thresholds"
+    ],
+    "timestamp": "2026-10-03T05:14:32.832133+00:00",
+    "_id": "c4c03b03-ff7f-46c7-a7b3-adb31bd759b2"
+  },
+  {
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-creta-001",
+    "vehicleName": "Hyundai Creta",
+    "registrationNumber": "TN 07 CS 4921",
+    "verificationStatus": "verified",
+    "confidence": 96.0,
+    "riskScore": 10,
+    "riskLevel": "low",
+    "accessStatus": "granted",
+    "policyAction": "Simulated Access Granted",
+    "recommendation": "Standard authorization approved. Simulated door latch unlocked.",
+    "riskFactors": [
+      "All baseline metrics within acceptable operating thresholds"
+    ],
+    "timestamp": "2026-10-03T05:17:05.407297+00:00",
+    "_id": "d7b0bbd7-cae1-4d0b-9249-902e5bb2b981"
+  },
+  {
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-creta-001",
+    "vehicleName": "Hyundai Creta",
+    "registrationNumber": "TN 07 CS 4921",
+    "verificationStatus": "verified",
+    "confidence": 96.0,
+    "riskScore": 10,
+    "riskLevel": "low",
+    "accessStatus": "granted",
+    "policyAction": "Simulated Access Granted",
+    "recommendation": "Standard authorization approved. Simulated door latch unlocked.",
+    "riskFactors": [
+      "All baseline metrics within acceptable operating thresholds"
+    ],
+    "timestamp": "2026-10-03T05:17:26.919932+00:00",
+    "_id": "3943f1ef-ccc7-4535-be37-75000ad80469"
+  }
+]

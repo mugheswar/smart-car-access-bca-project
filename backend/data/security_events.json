@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "sec-001",
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-creta-001",
+    "vehicleInfo": "Hyundai Creta (TN 07 CS 4921)",
+    "eventType": "unauthorized_high_risk_access_attempt",
+    "severity": "high",
+    "description": "Simulated access denied due to critical risk score (88/100). Off-hours burst request (02:15 AM) with 4 consecutive failures.",
+    "riskScore": 88,
+    "timestamp": "2026-10-01T21:03:04.723730+00:00",
+    "status": "active"
+  },
+  {
+    "_id": "sec-002",
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-xuv-003",
+    "vehicleInfo": "Mahindra XUV700 (KA 05 MN 1099)",
+    "eventType": "elevated_risk_access_requested",
+    "severity": "medium",
+    "description": "Additional biometric authentication requested due to degraded confidence score (72%) at 11:45 PM.",
+    "riskScore": 54,
+    "timestamp": "2026-10-02T15:03:04.723730+00:00",
+    "status": "reviewed"
+  },
+  {
+    "_id": "sec-003",
+    "userId": "user-demo-002",
+    "userName": "Aditya Sharma",
+    "vehicleId": "veh-nexon-002",
+    "vehicleInfo": "Tata Nexon (MH 12 QX 8832)",
+    "eventType": "unrecognized_device_access",
+    "severity": "low",
+    "description": "New browser session fingerprint detected for vehicle access request. Successfully passed biometric verification.",
+    "riskScore": 28,
+    "timestamp": "2026-09-30T05:03:04.723730+00:00",
+    "status": "resolved"
+  }
+]
